@@ -13,7 +13,7 @@ import sys
 #  2. INTEGER k
 # My solution - Took about an hour because I didn't know how to check the ASCII character of letters - Still doesn't work
 def caesarCipher(s, k):
-    print(f"message in = {s}")
+    #print(f"message in = {s}")
     s_arr = list(s)
     #print(s_arr)
     result = ""
