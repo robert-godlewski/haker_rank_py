@@ -9,7 +9,7 @@ import sys
 # Complete the 'balancedSums' function below.
 # The function is expected to return a STRING.
 # The function accepts INTEGER_ARRAY arr as parameter.
-# My Solution - 
+# My Solution - This doesn't really make sence at first
 def balancedSums(arr):
     print(f"arr in = {arr}")
     if len(arr) < 4:
